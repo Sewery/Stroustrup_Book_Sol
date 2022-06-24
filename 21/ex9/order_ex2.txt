@@ -1,0 +1,130 @@
+
+Order:
+  name:
+   Sth1
+  address:
+   StarzynskiegoRzeszow
+  data:
+   18.01.2020
+  purchases:
+      { Zakup1 , 43.12 , 10 } 
+      { Zakup2 , 12.12 , 50 } 
+      { Zakup3 , 10.99 , 100 } 
+      { Zakup4 , 28.62 , 15 } 
+      { Zakup5 , 13.9 , 8 } 
+      { Zakup6 , 13.92 , 3 } 
+
+Order:
+  name:
+    Win98
+  address:
+   PodkarpackaRzeszow
+  data:
+   29.05.2020
+  purchases:
+      { Omp , 43.12 , 10 } 
+      { Zakup2 , 12.12 , 50 } 
+      { Zakup3 , 10.99 , 100 } 
+      { Zakup4 , 28.62 , 15 } 
+      
+Order:
+  name:
+   Sth3
+  address:
+   AnnaRzeszow
+  data:
+   9.01.2020
+  purchases:
+      { Zakup2 , 12.12 , 50 } 
+      { Zakup3 , 10.99 , 100 } 
+      { Zakup4 , 28.62 , 15 } 
+      { Zakup5 , 13.9 , 8 } 
+      { Zakup6 , 13.92 , 3 } 
+
+Order:
+  name:
+   Sth4
+  address:
+   SwRochyRzeszow
+  data:
+   9.01.2020
+  purchases:
+      { Zakup2 , 12.12 , 50 } 
+      { Zakup3 , 10.99 , 100 } 
+      { Zakup4 , 28.62 , 15 } 
+      { Zakup6 , 13.92 , 3 } 
+
+Order:
+  name:
+   Sth5
+  address:
+   BziankaRzeszow
+  data:
+   13.01.2020
+  purchases:
+      { Zakup3 , 10.99 , 100 } 
+      { Zakup4 , 28.62 , 15 } 
+      { Zakup5 , 13.9 , 8 } 
+      { Zakup6 , 13.92 , 3 } 
+
+Order:
+  name:
+   Wyb428
+  address:
+   JasionkaRzeszow
+  data:
+   15.01.2020
+  purchases:
+      { Zakup2 , 12.12 , 50 } 
+      { Zakup3 , 10.99 , 100 } 
+      { Zakup4 , 28.62 , 15  } 
+      { Zakup6 , 13.92 , 3 } 
+
+Order:
+  name:
+   Sth7
+  address:
+   ArmiKrajowejRzeszow
+  data:
+   22.01.2020
+  purchases:
+      { Zakup2 , 12.12 , 50 } 
+      { Zakup4 , 28.62 , 15 } 
+      { Zakup5 , 13.9 , 8 } 
+      { Zakup6 , 13.92 , 3 } 
+
+Order:
+  name:
+   Aa341
+  address:
+    KrolaAugustaRzeszow
+  data:
+   9.01.2020
+  purchases:
+      { Zakup4 , 28.62 , 15 }
+      { Zabawka , 20.99 , 8 } 
+
+Order:
+  name:
+   Sth9
+  address:
+   PilusdskiegoRzeszow
+  data:
+   9.01.2020
+  purchases:
+      { Zakup2 , 12.12 , 50 } 
+      { Zakup3 , 14.99 , 100 } 
+      { Klocki , 18.62 , 15 } 
+      { Zakup5 , 13.9 , 8 } 
+
+Order:
+  name:
+   Sth10
+  address:
+   WincentegoWitosaRzeszow
+  data:
+   9.01.2020
+  purchases:
+      { Zakup2 , 12.51 , 30 } 
+      { Zakup3 , 32.99 , 100 }
+      { Zakup6 , 13.92 , 3 } 

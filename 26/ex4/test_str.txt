@@ -1,0 +1,7 @@
+{ { Bohr Darwin Einstein Lavoister Newton Turing } }
+{ 1.1 Newton 1 }
+{ 1.2 Copernicus 0 }
+
+{ { Curie Sienkiewicz Szymborska Reymont Wojtylo } }
+{ 1.3 Curie 1 }
+,

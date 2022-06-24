@@ -1,0 +1,4 @@
+-----------------------------------------------
+All algorithms all avalliable on website:
+https://en.cppreference.com/w/cpp/algorithm
+-----------------------------------------------

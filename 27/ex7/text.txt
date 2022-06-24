@@ -1,0 +1,12 @@
+Intrusive containers  
+ Advantages:
+    -  doesn't invoke any memory management at all
+    -  iteration is faster. 
+    - Intrusive containers offer predictability when inserting and erasing objects 
+    since no memory managed is done with intrusive containers
+ Disadvantages:   
+    -Thread-safety analysis is harder
+    -In intrusive containers you don't store a copy of an object, 
+    but they rather the original object is linked with other objects in the container.
+    - The user has to manage the lifetime of inserted objects independently from the containers. 
+    
